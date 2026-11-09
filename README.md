@@ -10,7 +10,7 @@ INF2005 CSF ACW3 coursework workspace for controlled vulnerability research, lab
 4. Follow [docs/demo-runbook.md](docs/demo-runbook.md) once the lab has been validated.
 5. Save evidence under `evidence/` and write the report in `report/draft.md`.
 
-The lab folders are scaffolds. Compose files contain no services; no runnable reproductions are included yet.
+The Python TLS lab at [demo/CVE-2026-19553-python-tls](demo/CVE-2026-19553-python-tls/README.md) contains a runnable local reproduction. The other lab folders remain scaffolds.
 
 ## Project layout
 
